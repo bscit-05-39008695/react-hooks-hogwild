@@ -7,12 +7,3 @@
   to = "/index.html"
   status = 200
   force = true
-
-[[headers]]
-  for = "/*"
-    [headers.values]
-      X-Frame-Options = "DENY"
-      X-Content-Type-Options = "nosniff"
-
-[functions]
-  directory = "netlify/functions"
