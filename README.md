@@ -1,6 +1,9 @@
 # HogWild: The React app for fans of prize-winning pigs
 
-## React Week 1 Project
+
+## Date: 2024/11/04
+
+## By ARON KIPYEGON MUTAI
 
 ## Deliverables
 
@@ -66,3 +69,20 @@ so 8-wide will make two columns and 4-wide will make 4 columns.)
 Semantic will take care of assigning the columns for you. You can also try
 implementing [Semantic Cards](https://semantic-ui.com/views/card.html) for each
 hog.
+
+
+
+Installation Use Git to clone the repository and set up the project locally.
+
+
+TECHNOLOGIES USED 
+
+react
+js
+jsx
+css
+
+Support and Contact Details
+
+ https://github.com/bscit-05-39008695
+
